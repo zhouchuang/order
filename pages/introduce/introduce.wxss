@@ -1,0 +1,28 @@
+.button-hover {
+  background-color: red;
+}
+/** 添加自定义button点击态样式类**/
+.other-button-hover {
+  background-color: blue;
+}
+.userinfo-avatar {
+  width: 64rpx;
+  height: 64rpx;
+  border-radius: 50%;
+  float:right;
+}
+.settle{
+  position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border: 0;
+    outline: 0;
+    width: 30%;
+    padding:10px;
+    text-align: center;
+    background-color: #51d862;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+}
